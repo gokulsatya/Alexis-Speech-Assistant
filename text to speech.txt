@@ -1,0 +1,18 @@
+a text synthesis application using  JavaScript and the web speech API and also used Bootstrap 4 to create the UI.
+
+
+step1:
+the layout of this site is based on Bootstrap4
+
+bootstrap css
+step2
+HTML
+There are four form-groups inside of content
+step3: js 
+initial dom
+
+According to what is typed in the textarea and then select the option lang name, it trigger the web speech API. 
+And also the pitch and rate are changable within the range
+
+
+
